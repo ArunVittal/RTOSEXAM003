@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

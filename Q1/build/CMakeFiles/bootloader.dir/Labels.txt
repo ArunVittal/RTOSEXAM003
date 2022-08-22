@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/CMakeFiles/bootloader-complete.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/arun/Desktop/RTOSEXAM_ARUN_003/Q1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
